@@ -11,7 +11,7 @@ def get_data():
                         "type": "doctype",
                         "name": "First Doctype",
                         "label": _("First Doctype"),
-                }
+                },
                 {       "type": "doctype",
                         "name": "Retail Sales Order",
                         "label": _("Retail Sales Order"),
