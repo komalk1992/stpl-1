@@ -16,6 +16,22 @@ def get_data():
                         "name": "Retail Sales Order",
                         "label": _("Retail Sales Order"),
                 },
+
+
+                {       "type": "doctype",
+                        "name": "Stockist Sales Order",
+                        "label": _("Stockist Sales Order"),
+                },
+
+                {       "type": "doctype",
+                        "name": "Retail Delivery",
+                        "label": _("Retail Delivery"),
+                },
+
+                {       "type": "doctype",
+                        "name": "Stockist Delivery",
+                        "label": _("Stockist Delivery"),
+                },
                 ]
         }
 ]
