@@ -32,6 +32,15 @@ def get_data():
                         "name": "Stockist Delivery",
                         "label": _("Stockist Delivery"),
                 },
+
+
+                {       "type": "doctype",
+                        "name": "Lead",
+                        "label": _("Lead"),
+                },
+
+
+
                 ]
         }
 ]
